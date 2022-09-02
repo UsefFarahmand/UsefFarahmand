@@ -13,21 +13,13 @@
 
 - ❓ Ask me about anything related to **Unity** and related technologies
 
-- 📫 How to reach me: **yoseffarahmand94@gmail.com**
+- 📫 How to reach me: **[Mail](mailto:yoseffarahmand94@gmail.com)**
 
-- 📄 Know about my experiences: **www.linkedin.com/in/UsefFarahmand**
+- 📄 Know about my experiences: **[Linkedin](https://www.linkedin.com/in/useffarahmand/)**
 
-
----
-<h3 align="left"> My contribution status </h3>
-<div align="center">
-  
-<img alt="Usef Farahmand" height="165"  src="https://github-readme-stats.vercel.app/api?username=josephfarahmand&show_icons=true&theme=flag-india" />
-<img alt="Usef Farahmand" height="165"  src="https://github-readme-streak-stats.herokuapp.com?user=josephfarahmand&hide_border=true&fire=DD2727" /> 
-
-</div>
 
 ---
+
 
 <p align="center"><samp>
 Check out my repos ⬇️  
