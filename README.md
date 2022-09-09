@@ -9,7 +9,7 @@
 
 - ⚙️ I use daily: **C#**, **Unity** and so many **soft skills**!
 
-- 🌱 I’m currently learning 2D Animation and tools to control game animations more easily  
+- 🌱 I’m currently work on **Survival Game** which I will publish soon!
 
 - ❓ Ask me about anything related to **Unity** and related technologies
 
