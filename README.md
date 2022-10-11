@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences: **[Linkedin](https://www.linkedin.com/in/useffarahmand/)**
 
+- 🚀 Download this filr and see my portfolio:  **[Portfolio.pdf](/Game%20Developer%20Portfolio-Usef%20Farahmand.pdf)**
+
 
 ---
 
