@@ -9,9 +9,9 @@
 
 - ⚙️ I use daily: **C#**, **Unity** and so many **soft skills**!
 
-- 🌱 I’m currently work on **Survival Game** which I will publish soon!
+- 🌱 I’m currently work on **2D Puzzle** in my free time!
 
-- ❓ Ask me about anything related to **Unity** and related technologies
+- ❓ Ask me about anything related to **Unity** and related technologies.
 
 - 📫 How to reach me: **[Mail](mailto:yoseffarahmand94@gmail.com)**
 
