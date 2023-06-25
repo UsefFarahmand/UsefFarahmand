@@ -9,7 +9,7 @@
 
 - ⚙️ I use daily: **C#**, **Unity** and so many **soft skills**!
 
-- 🌱 I’m currently work on **2D Puzzle** in my free time!
+- 🌱 I’m currently work on a indie game in my free time!
 
 - ❓ Ask me about anything related to **Unity** and related technologies.
 
