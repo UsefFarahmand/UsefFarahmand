@@ -7,11 +7,11 @@
   
 <h3 align="left">Bio:</h3>
 
-- ⚙️ I use daily: **C#**, **Unity** and so many **soft skills**!
+- ⚙️ I use daily: **C#**, **Unity**, **GDScript**, **Godot** and so many **soft skills**!
 
 - 🌱 I’m currently work on a indie game in my free time!
 
-- ❓ Ask me about anything related to **Unity** and related technologies.
+- ❓ Ask me about anything related to **Unity** or **Godot** and related technologies.
 
 - 📫 How to reach me: **[Mail](mailto:yoseffarahmand94@gmail.com)**
 
