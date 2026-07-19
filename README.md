@@ -1,16 +1,40 @@
+# Hi, I'm Usef Farahmand 👋
 
-### 🎮 Unity Developer | Technical Artist | Open-Source Enthusiast 🚀  
-I create modular Unity tools at UModules. Ask me anything about Unity or Godot and related technologies!
+**Unity Game Developer • Technical Artist • Creative Problem Solver**
 
-❓ **Ask me about:** Game development, Unity
+I build games and interactive experiences by combining gameplay programming, technical art, UI implementation, and performance optimization across Android, PC, Web, and VR.
 
-🌐 **Connect with me:** [www.useffarahmand.com](https://useffarahmand.com)
+## 🎨 What I Do
 
-🚀 **Portfolio:** [Download my portfolio](/Game%20Developer%20Portfolio-Usef%20Farahmand.pdf)
+- 🎮 Gameplay Programming
+- 🎨 Technical Art
+- 🖥 UI Development
+- 🥽 VR Development
+- 🛠 Editor Tools
+- ⚡ Performance Optimization
 
----
+## 🛠 Tech Stack
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
+<p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=unity,cs,git,github,blender,ps,figma&perline=11" />
+  </p>
+</p>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:contact@useffarahmand.com">
+    <img src="https://img.shields.io/badge/Email-contact%40useffarahmand.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br><br>
+
+  <a href="https://www.useffarahmand.com">
+    <img src="https://img.shields.io/badge/Portfolio-useffarahmand.com-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/useffarahmand/">
+    <img src="https://img.shields.io/badge/LinkedIn-Usef%20Farahmand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
